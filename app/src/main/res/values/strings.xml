@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestBigApp</string>
+    <string name="shrt_decs_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+</resources>
